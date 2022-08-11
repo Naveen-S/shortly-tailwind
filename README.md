@@ -1,3 +1,3 @@
 # shortly-tailwind
 
-URL: 
+URL: https://shortly-tailwind.netlify.app/
